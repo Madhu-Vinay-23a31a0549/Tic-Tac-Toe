@@ -25,7 +25,7 @@ placing **X** and **O** marks on a 3x3 grid.
 
 ## 🕹️ How to Play
 1. Click on any empty cell to make a move.  
-2. Players take alternate turns: **X** starts first.  
+2. Players take alternate turns: **O** starts first.  
 3. The game ends when one player wins or the board is full.
 
 <br>
